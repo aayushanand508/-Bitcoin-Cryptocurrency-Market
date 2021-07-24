@@ -1,3 +1,3 @@
 Exploring the Bitcoin Cryptocurrency Market
 
- Understanding the growth and impact of Bitcoin and other cryptocurrencies you will, in this project, explore the market capitalization of different cryptocurrencies.
+ Understanding the growth and impact of Bitcoin and other cryptocurrencies and exploring the market capitalization of different cryptocurrencies.
